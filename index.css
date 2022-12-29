@@ -1,0 +1,35 @@
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    background-image: url("fondo.webp");
+    height: 100vh;
+    background-size: cover;
+    margin-top: 3%;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+} 
+
+button{
+    color: #016f32;
+    width: 350px;
+    height: 50px;
+    background-color: goldenrod;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 2px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+
+#message-el {
+    font-style: italic;
+}
+
